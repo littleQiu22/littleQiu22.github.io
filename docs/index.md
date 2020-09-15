@@ -1,32 +1,35 @@
-## Welcome to GitHub Pages
+<span style="font-size:2rem;color:Green">**Welcome to Easy-Operation-Research**</span>
 
-You can use the [editor on GitHub](https://github.com/littleQiu22/littleQiu22.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+* <span style='font-size:1.5rem;color:Purple'>**The purpose of this web is to make Operation Research(OR)  a little bit more specific and funnier:smile:.**</span> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* <span style='font-size:1.5rem;color:Purple'>**Readers need to read something they need, rather than read all contents in this web, which will be time-consuming and useless!**</span> 
 
-### Markdown
+### Some Note in 2020/9/15
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Today is rainy. But if you wear a pair of slipper, you will feel nothing upsetting.
 
-```markdown
-Syntax highlighted code block
+#### Note 1: 强局部最优解与严格局部最优解的关系
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+
+如果某个解是**强局部最优解**，那么它**必定是严格局部最优解**，但**反之却不一定成立**
+
+使用一个例子来证明“反之却不一定成立”的结论：
+	假设函数形式
+$$
+1+1=2
+$$
+
+
+
+
+
+
+
+
+
 
 ### Jekyll Themes
 
